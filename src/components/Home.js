@@ -32,7 +32,7 @@ function Home() {
 <div className="container substyle ">
     <div className="row">
         <div className="col-lg-5 col-md-12  ">
-            <img src="./images/My_Image.jpg" className="img-fluid d-none d-lg-block float-right " alt=""/>
+            <img src="manojadikari.github.io/images/My_Image.jpg" className="img-fluid d-none d-lg-block float-right " alt=""/>
         </div>
         <div className="col-lg-6 col-md-12 abstyle">
             <h3 className="display-4 text-info  ">About Me</h3>
