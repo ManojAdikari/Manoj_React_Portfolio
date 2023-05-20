@@ -20,7 +20,7 @@ function Portfolio() {
                     <div className="col-md-4">
                         <div className="itemBox">
                             <a href="https://fathomless-cove-45188.herokuapp.com//" target="_blank">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/Screenshot.png"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/Screenshot.png"} alt="Metro Madness" className="img-fluid" />
                             </a>
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Metro Madness</h3>
@@ -37,7 +37,7 @@ function Portfolio() {
                     <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="https://benarmstrong81.github.io/Worldy-Music-at-Your-Fingertips/" target="_blank" rel="noreferrer">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/Freetify-deployed-image-working.PNG"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/Freetify-deployed-image-working.PNG"} alt="Metro Madness" className="img-fluid" />
                             </a>
 
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
@@ -54,7 +54,7 @@ function Portfolio() {
                     <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="https://www.cecb.lk/" target="_blank" rel="noreferrer">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/cecb.png"} alt="Central Engineering" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/cecb.png"} alt="Central Engineering" className="img-fluid" />
                             </a>
 
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
@@ -73,7 +73,7 @@ function Portfolio() {
                     <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="#" target="_blank">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/vms.png"} alt="Vehicle Management system" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/vms.png"} alt="Vehicle Management system" className="img-fluid" />
                             </a>
 
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
@@ -90,7 +90,7 @@ function Portfolio() {
                     <div className="col-md-4">
                         <div className="itemBox">
                             <a href="http://lrscarhires.com/" target="_blank" rel="noreferrer">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/lrs.png"} alt="LRS car Hires" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/lrs.png"} alt="LRS car Hires" className="img-fluid" />
                             </a>
 
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
@@ -105,7 +105,7 @@ function Portfolio() {
                         <div className="itemBox">
 
                             <a href="http://lrscarhires.com/" target="_blank" rel="noreferrer">
-                                <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/saz.png"} alt="LRS car Hires" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "./images/saz.png"} alt="LRS car Hires" className="img-fluid" />
                             </a>
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Saz Poly Packaging ERP</h3>
