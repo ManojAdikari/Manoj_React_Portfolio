@@ -24,7 +24,7 @@ function Portfolio() {
                             </a>
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Metro Madness</h3>
-                                
+
                                 <a href="https://github.com/RumaRDas/fun-with-color.git" target="_blank">
                                     <i className="fa fa-github text-info icon"></i>
                                 </a>
@@ -37,16 +37,16 @@ function Portfolio() {
                     <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="https://benarmstrong81.github.io/Worldy-Music-at-Your-Fingertips/" target="_blank" rel="noreferrer">
-                            <img src={process.env.PUBLIC_URL + "/images/Freetify-deployed-image-working.PNG"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "/images/Freetify-deployed-image-working.PNG"} alt="Metro Madness" className="img-fluid" />
                             </a>
 
-                            <div className="box"style={{ backgroundColor: "rgb(46, 43, 43)" }}>
+                            <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Worldy Music at Your Fingertips</h3>
-                                
+
                                 <a href="https://github.com/BenArmstrong81/Worldy-Music-at-Your-Fingertips" target="_blank" rel="noreferrer">
                                     <i className="fa fa-github text-info icon"></i>
                                 </a>
-                                
+
                             </div>
                         </div>
 
@@ -54,12 +54,12 @@ function Portfolio() {
                     <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="https://www.cecb.lk/" target="_blank" rel="noreferrer">
-                            <img src={process.env.PUBLIC_URL + "/images/cecb.png"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "/images/cecb.png"} alt="Central Engineering" className="img-fluid" />
                             </a>
 
-                            <div className="box"style={{ backgroundColor: "rgb(46, 43, 43)" }}>
+                            <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Central Engineering Consultancy Bureau Web Sri lanka</h3>
-                               
+
                                 <a href="#" target="_blank">
                                     <i className="fa fa-github text-info icon"></i>
                                 </a>
@@ -70,46 +70,48 @@ function Portfolio() {
 
                 </div>
                 <div className="row pt-0 pt-md-4 ">
-                <div className="col-md-4 shadow">
+                    <div className="col-md-4 shadow">
                         <div className="itemBox">
                             <a href="#" target="_blank">
-                            <img src={process.env.PUBLIC_URL + "/images/vms.png"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "/images/vms.png"} alt="Vehicle Management system" className="img-fluid" />
                             </a>
 
-                            <div className="box"style={{ backgroundColor: "rgb(46, 43, 43)" }}>
+                            <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Vehicle Management system</h3>
-                                
+
                                 <a href="#" target="_blank">
                                     <i className="fa fa-github text-info icon"></i>
                                 </a>
-                                
+
                             </div>
                         </div>
 
                     </div>
                     <div className="col-md-4">
-                    <div className="itemBox">
+                        <div className="itemBox">
                             <a href="http://lrscarhires.com/" target="_blank" rel="noreferrer">
-                            <img src={process.env.PUBLIC_URL + "/images/lrs.png"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + "/images/lrs.png"} alt="LRS car Hires" className="img-fluid" />
                             </a>
 
-                            <div className="box"style={{ backgroundColor: "rgb(46, 43, 43)" }}>
+                            <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">LRS car Hires</h3>
-                                
-                               
-                                
+
+
+
                             </div>
                         </div>
                     </div>
                     <div className="col-md-4">
-                    <div className="itemBox">
-                           
+                        <div className="itemBox">
 
-                            <div className="box"style={{ backgroundColor: "rgb(46, 43, 43)" }}>
+                            <a href="http://lrscarhires.com/" target="_blank" rel="noreferrer">
+                                <img src={process.env.PUBLIC_URL + "/images/saz.png"} alt="LRS car Hires" className="img-fluid" />
+                            </a>
+                            <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Saz Poly Packaging ERP</h3>
-                                
-                               
-                                
+
+
+
                             </div>
                         </div>
 
