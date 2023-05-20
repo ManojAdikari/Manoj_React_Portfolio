@@ -14,7 +14,8 @@ function Home() {
                             anyone. </p>
                     </div>
                     <div className="col-lg-6 mt-5  ">
-                        <img src="./images/My_Image" className="img-fluid d-none d-lg-block float-right " alt=""/>
+                        <img src={process.env.PUBLIC_URL + "Manoj_React_Portfolio/images/My_Image"} className="img-fluid d-none d-lg-block float-right " alt=""/>
+                      
                     </div>
 
 
