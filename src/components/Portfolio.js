@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-
+import image from "../../public/images/lrs.png"
 
 function Portfolio() {
     return (
@@ -20,7 +20,7 @@ function Portfolio() {
                     <div className="col-md-4">
                         <div className="itemBox">
                             <a href="https://fathomless-cove-45188.herokuapp.com//" target="_blank">
-                                <img src={process.env.PUBLIC_URL + "./images/Screenshot.png"} alt="Metro Madness" className="img-fluid" />
+                                <img src={process.env.PUBLIC_URL + image}  alt="Metro Madness" className="img-fluid" />
                             </a>
                             <div className="box" style={{ backgroundColor: "rgb(46, 43, 43)" }}>
                                 <h3 className="text-info ">Metro Madness</h3>
